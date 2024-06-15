@@ -1,5 +1,6 @@
 # Vulnerable Auth App
 
+## This is a readme file by Emmanuel Okose
 This is a vulnerable web application designed for testing and training purposes. It features authentication and authorization mechanisms with intentional flaws, allowing users to practice identifying and exploiting security vulnerabilities commonly found in web applications.
 
 ## Description
