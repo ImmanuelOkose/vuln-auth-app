@@ -22,7 +22,7 @@ services:
       - 127.0.0.1:4280:80
     restart: unless-stopped
 
-  db:
+  db: 
     image: docker.io/library/mariadb:10
 
     volumes:
